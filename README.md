@@ -16,8 +16,8 @@ Welcome to the **Machine Learning Project Repository**! This repository contains
 
 ### 1. Clone the repository 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd Machine-Learning
+git clone https://github.com/whyuwe/Machine-Learning-.git
+cd Machine-Learning-
 
 
 ### 2.Install dependencies_
