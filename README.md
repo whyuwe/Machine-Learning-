@@ -30,5 +30,4 @@ Python 3.10+
 Scikit-learn / TensorFlow / PyTorch
 
 Pandas, NumPy, Matplotlib, Seaborn
-
 Jupyter Notebooks
